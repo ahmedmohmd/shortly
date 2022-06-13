@@ -1,23 +1,29 @@
-import logo from './logo.svg';
-import './App.css';
+//* Imports
+import About from "./components/About";
+import NavBar from "./components/common/NavBar";
+import ScrollBtn from "./components/common/ScrollButton";
+import Features from "./components/Features";
+import Footer from "./components/Footer";
+import Header from "./components/Header";
+import UrlInput from "./components/UrlINput";
 
+//* APP JSX
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="relative flex flex-col items-center justify-center bg-cat">
+      <NavBar />
+      <main className="flex flex-col items-center justify-center w-full">
+        <Header />
+        <UrlInput />
+        <Features />
+        <About />
+        <Footer />
+      </main>
+      <ScrollBtn
+        position={"right"}
+        color={"bg-[#613f77]"}
+        hoverColor={"hover:bg-[#4b3662]"}
+      />
     </div>
   );
 }
