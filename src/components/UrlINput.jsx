@@ -94,8 +94,8 @@ function UrlInput() {
           </div>
         </div>
       ) : null}
-      {loading ? (
-        <div className="flex items-center justify-center gap-2">
+      {!loading ? (
+        <div className="flex items-center justify-center gap-2 pt-7">
           <svg
             role="status"
             class="w-8 h-8 mr-2 text-gray-200 animate-spin dark:text-gray-600 fill-lion"
@@ -112,7 +112,7 @@ function UrlInput() {
               fill="currentFill"
             />
           </svg>{" "}
-          <span className="font-light text-lion">Wait Please ...</span>
+          <span className="font-light text-lion">Please Wait...</span>
         </div>
       ) : null}
     </div>
