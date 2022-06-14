@@ -50,9 +50,7 @@ function Features() {
               Performance
             </h2>
             <p class="leading-relaxed text-md text-gray-500">
-              Blue bottle crucifix vinyl post-ironic four dollar toast vegan
-              taxidermy. Gastropub indxgo juice poutine, ramps microdosing banh
-              mi pug VHS try-hard.
+              Fast and Excellent Performance to Get Your SHorten URL.
             </p>
           </div>
         </div>
@@ -63,9 +61,7 @@ function Features() {
           <div class="flex-grow">
             <h2 class="text-lion text-2xl font-bold title-font mb-3">Design</h2>
             <p class="leading-relaxed text-md text-gray-500">
-              Blue bottle crucifix vinyl post-ironic four dollar toast vegan
-              taxidermy. Gastropub indxgo juice poutine, ramps microdosing banh
-              mi pug VHS try-hard.
+              Nice Design, Good Colors and Responsive Design.
             </p>
           </div>
         </div>
@@ -76,9 +72,7 @@ function Features() {
           <div class="flex-grow">
             <h2 class="text-lion text-2xl font-bold title-font mb-3">Free</h2>
             <p class="leading-relaxed text-md text-gray-500">
-              Blue bottle crucifix vinyl post-ironic four dollar toast vegan
-              taxidermy. Gastropub indxgo juice poutine, ramps microdosing banh
-              mi pug VHS try-hard.
+              Completely Free, You Can Short Eny Number of URLs.
             </p>
           </div>
         </div>
