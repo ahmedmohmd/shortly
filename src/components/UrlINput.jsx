@@ -94,7 +94,7 @@ function UrlInput() {
           </div>
         </div>
       ) : null}
-      {!loading ? (
+      {loading ? (
         <div className="flex items-center justify-center gap-2 pt-7">
           <svg
             role="status"
