@@ -9,7 +9,7 @@ function About() {
       id="about"
       className="container flex flex-col items-center justify-center px-5 pt-16 pb-24 mx-auto lg:px-0"
     >
-      <Heading title={"About"} description={"About Website."} />
+      <Heading title={"About"} description={"About Shortly."} />
       <div className="-mt-6 lg:w-1/2">
         <div className="flex flex-col items-center justify-center gap-1 text-lg text-center text-gray-500 lg:block">
           <ImQuotesLeft className="inline mr-2 text-3xl" />

@@ -8,9 +8,7 @@ function Header() {
             Short Your URLS Now!
           </h2>
           <p className="text-base text-gray-500 md:text-lg">
-            Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-            accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-            quae. explicabo.
+            The Fastest Way to short Your URLs, Start Now.
           </p>
         </div>
         <a

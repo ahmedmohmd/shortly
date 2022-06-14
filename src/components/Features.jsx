@@ -39,7 +39,7 @@ const FeaturesStyle = styled.div`
 function Features() {
   return (
     <FeaturesStyle id="features" class="container mx-auto">
-      <Heading title={"Features"} description={"Website Features."} />
+      <Heading title={"Features"} description={"SHortly Features."} />
       <div class="mt-6 lg:mt-0 flex px-5 sm:px-6 xl:px-0 flex-col justify-center gap-20 sm:gap-24 lg:gap-16 items-center lg:flex-row  w-full md:justify-center md:items-center">
         <div class="feature rounded-lg pt-14 sm:pt-14 lg:pt-9 bg-white relative p-4 py-6 md:w-2/3 lg:grow  xl:grow-0 lg:w-1/5  flex flex-col text-center items-center">
           <div class="absolute left-1/2 -translate-x-1/2  lg:left-16  top-0 -translate-y-1/2 w-20 h-20 inline-flex items-center justify-center rounded-full bg-lion  mb-5 flex-shrink-0">
