@@ -45,4 +45,4 @@ Shortly is a URL Shortner Website that Let You to SHort Your URLs.
 -----
 
 # Web App Screenshot
-<!-- ![Markdown Blog App Screenshot](https://github.com/ahmedmohmd/my-personal-website/blob/main/app-screenshot.png?raw=true) -->
+![SHortly Website Screenshot](https://github.com/ahmedmohmd/shortly/blob/main/app-screenshot.png?raw=true)
