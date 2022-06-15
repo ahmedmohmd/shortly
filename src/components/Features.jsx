@@ -39,7 +39,7 @@ const FeaturesStyle = styled.div`
 function Features() {
   return (
     <FeaturesStyle id="features" class="container mx-auto">
-      <Heading title={"Features"} description={"SHortly Features."} />
+      <Heading title={"Features"} description={"Shortly Features."} />
       <div class="mt-6 lg:mt-0 flex px-5 sm:px-6 xl:px-0 flex-col justify-center gap-20 sm:gap-24 lg:gap-16 items-center lg:flex-row  w-full md:justify-center md:items-center">
         <div class="feature rounded-lg pt-14 sm:pt-14 lg:pt-9 bg-white relative p-4 py-6 md:w-2/3 lg:grow  xl:grow-0 lg:w-1/5  flex flex-col text-center items-center">
           <div class="absolute left-1/2 -translate-x-1/2  lg:left-16  top-0 -translate-y-1/2 w-20 h-20 inline-flex items-center justify-center rounded-full bg-lion  mb-5 flex-shrink-0">
@@ -50,7 +50,9 @@ function Features() {
               Performance
             </h2>
             <p class="leading-relaxed text-md text-gray-500">
-              Fast and Excellent Performance to Get Your SHorten URL.
+              Shortly have Excellant Performance and Speed Thanks to MongoDB as
+              a Database with Express and Node for Backend, Which Help You to
+              Short Your URLs in The Fastest Way.
             </p>
           </div>
         </div>
@@ -61,7 +63,9 @@ function Features() {
           <div class="flex-grow">
             <h2 class="text-lion text-2xl font-bold title-font mb-3">Design</h2>
             <p class="leading-relaxed text-md text-gray-500">
-              Nice Design, Good Colors and Responsive Design.
+              Shortly Have a Nice and Responsive Design Thanks to Tailwind
+              Framework, Which Give The User Comfortable Journey. Shortly also
+              have a Nice Colors, Wich Compfortable for User Eyes.
             </p>
           </div>
         </div>
@@ -72,7 +76,9 @@ function Features() {
           <div class="flex-grow">
             <h2 class="text-lion text-2xl font-bold title-font mb-3">Free</h2>
             <p class="leading-relaxed text-md text-gray-500">
-              Completely Free, You Can Short Eny Number of URLs.
+              Shortly is Completely Free, So Eny One Can use Shortly Service to
+              Short His URLs. So You Can Short Your URLs in The Fatest Way and
+              With a Nice Design, Comfortable Journey and Completely Free.
             </p>
           </div>
         </div>

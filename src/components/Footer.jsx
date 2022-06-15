@@ -5,7 +5,7 @@ import { BsFacebook, BsTwitter, BsLinkedin, BsGithub } from "react-icons/bs";
 function Footer() {
   return (
     <footer class="text-gray-600 body-font bg-tiger w-full">
-      <div class="gap-6 sm:gap-10 lg:gap-0 container px-5 py-24 mx-auto flex md:items-center lg:items-start lg:flex-row md:flex-nowrap flex-wrap flex-col">
+      <div class="gap-6 sm:gap-10 lg:gap-0 container px-5 pb-24 pt-10 mx-auto flex md:items-center lg:items-start lg:flex-row md:flex-nowrap flex-wrap flex-col">
         <div class="w-64 flex-shrink-0 md:mx-0 mx-auto text-center md:text-left">
           <a class="flex title-font font-medium items-start lg:justify-start justify-center text-gray-900">
             <a href="#" className="mb-4 md:mb-0">
